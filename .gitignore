@@ -9,7 +9,7 @@ venv/
 .python_packages/
 
 # IDE
-.vscode/
+
 .idea/
 *.swp
 
