@@ -1,3 +1,5 @@
 azure-functions
 azure-cosmos
 azure-ai-formrecognizer
+python-jose[cryptography]
+requests
